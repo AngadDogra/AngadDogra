@@ -1,4 +1,4 @@
-# I'm Angad Dogra,
+# 👋 I'm Angad Dogra,
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in Machine Learning, Computer Vision as well as a little bit of embedded programming!
 
