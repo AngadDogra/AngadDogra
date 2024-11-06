@@ -1,6 +1,6 @@
 # 👋 I'm Angad Dogra,
 
-Just someone trying to find out how Artificial Intelligence works so they spare me when they take over.
+Someone trying to fingure out how Artificial Intelligence works so that they spare me when they take over.
 
 ---
 
