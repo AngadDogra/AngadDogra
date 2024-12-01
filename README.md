@@ -1,4 +1,4 @@
-# 👋 I'm Angad Dogra,
+# 👋 I'm Angad Dogra
 
 Someone trying to figure out how Artificial Intelligence works so that they spare me when they take over.
 
